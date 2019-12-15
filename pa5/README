@@ -1,0 +1,16 @@
+//Mythili Karra
+//////mmkarra
+//////CMPS 101
+//////June 6, 2019
+
+This is the README
+Table of Contents:
+
+README
+Makefile
+List.c
+List.h
+Graph.h
+Graph.c
+GraphTest.c
+FindComponents.c 
